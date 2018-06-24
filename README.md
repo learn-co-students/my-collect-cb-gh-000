@@ -3,7 +3,7 @@
 ## Objectives
 
 1. Build a method that yields members of a collection to a block. 
-2. Control the return value of a method that uses `yield` such that it returns a new collection. 
+2. Control the return value of a method that uses `yield` such that it returns a new collection. k
 
 ## Instructions
 
