@@ -1,3 +1,4 @@
+=begin
 describe "my_collect" do
   let(:languages) { ['ruby', 'javascript', 'python', 'objective-c'] }
   let(:students) { ['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller'] }
@@ -49,3 +50,4 @@ describe "my_collect" do
     expect(students).to eq(['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller'])
   end
 end
+=end
